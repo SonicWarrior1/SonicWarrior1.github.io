@@ -1,0 +1,30 @@
+html{
+  background-image: linear-gradient(to left bottom, #3d383b, #464347, #504f52, #5b5b5e, #666769, #717374, #7c7e7f, #888a8a, #969898, #a5a7a7, #b3b5b5, #c2c4c4);
+  height: 100%;
+}
+body{
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 100%;
+}
+h1{
+  color: aliceblue;
+  margin-top: 40px;
+  font-size: 50px;
+  display: block;
+}
+img{
+  width: 10%;
+  height: auto;
+  border-radius: 50%;
+}
+#welcome-stuff{
+  margin-top: 25vh;
+}
+ul li{
+  font-size: 20px;
+  padding: 5px;
+  color: crimson;
+}
+
